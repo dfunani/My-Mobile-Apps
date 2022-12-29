@@ -24,14 +24,15 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.dfunani.motivated"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "96d7ce9a-4744-41e5-95a9-0293c3debeac"
+        "projectId": "87f4d087-d661-4992-ae6e-861134fec985"
       }
     }
   }

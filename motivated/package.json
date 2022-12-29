@@ -9,10 +9,16 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "axios": "^1.2.1",
     "expo": "~47.0.9",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-native-auto-size-text": "^1.1.1",
+    "react-native-view-shot": "3.4.0",
+    "@react-native-async-storage/async-storage": "~1.17.3",
+    "expo-media-library": "~15.0.0",
+    "expo-sharing": "~11.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
